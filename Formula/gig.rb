@@ -2,7 +2,7 @@ class Gig < Formula
   desc "Lightweight task management CLI backed by SQLite"
   homepage "https://github.com/NeerajG03/gig"
   url "https://github.com/NeerajG03/gig/archive/refs/tags/v0.5.0.tar.gz"
-  sha256 "24b22acc3e60e0ff3d30d21b584556523cfdbd90f8010ad9425745853dc02c42"
+  sha256 "9148da2332a8fc2c95b61826383e63bea0e6389ef4a0420c3b89010ab7e8dd69"
   license "MIT"
 
   depends_on "go" => :build
