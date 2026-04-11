@@ -1,8 +1,8 @@
 class Jeff < Formula
   desc "Agent workspace manager built on gig"
   homepage "https://github.com/NeerajG03/JEFF"
-  url "https://github.com/NeerajG03/JEFF/archive/refs/tags/v0.8.0-beta.tar.gz"
-  sha256 "8026cd967768ce11694402b4cbba84bb3056e1ac6c131aaefb3db4882063153c"
+  url "https://github.com/NeerajG03/JEFF/archive/refs/tags/v0.8.1-beta.tar.gz"
+  sha256 "dcfaa4f157cfb4c5734ca8afc619a637e8339b0a57bfa2d98f1dfa50609eb84f"
   license "MIT"
 
   depends_on "go" => :build
